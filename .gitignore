@@ -1,0 +1,6 @@
+m3project.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
